@@ -1,6 +1,6 @@
 #! /bin/bash
-Persion1=Abhi
-Persion2=Jaanvi
+Persion1=Vaishnavi
+Persion2=Dastagiri
 
 echo "$Persion1 : : Hi $Persion2 how are you ? "
 echo "$Persion2 :: Hi $Persion1 i am fine how are you ? "
